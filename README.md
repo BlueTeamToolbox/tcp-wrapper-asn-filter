@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/BlueTeamToolbox/">
-        <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/bluetoolbox/black-and-white-circle-256.png" alt="BlueTeamToolbox logo" />
+        <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/blueteamtoolbox/black-and-white-circle-256.png" alt="BlueTeamToolbox logo" />
     </a>
     <br />
     <a href="https://github.com/BlueTeamToolbox/tcp-wrapper-asn-filter/actions/workflows/pipeline.yml">
